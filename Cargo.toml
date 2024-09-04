@@ -1,10 +1,11 @@
 [package]
 name = "wd_macro"
-version = "0.4.0"
+version = "0.4.1"
 edition = "2021"
 authors = ["wangdong <1443965173@qq.com>"]
 license = "MIT/Apache-2.0"
 description = "wd macro for rust"
+repository = "https://github.com/woshihaoren4/wd_macro"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
